@@ -8,13 +8,9 @@ A simple stopwatch application created using HTML, CSS, and JavaScript.
 - Accurate time tracking in hours, minutes, seconds, and milliseconds
 - User-friendly interface
 
-## Demo
 
-[Link to the demo](#) *(Add your demo link here)*
 
-## Screenshots
 
-![Stopwatch Screenshot](path/to/your/screenshot.png) *(Add a screenshot of your stopwatch here)*
 
 ## Getting Started
 
