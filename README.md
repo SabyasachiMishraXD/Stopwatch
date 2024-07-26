@@ -21,7 +21,18 @@ To get a local copy up and running follow these simple steps.
 You only need a modern web browser to run this project.
 
 ### Installation
-
-1. Clone the repo
-   ```sh
+1.Clone the repo
+   sh
    git clone https://github.com/your-username/stopwatch.git
+
+   Open index.html in your browser.
+2. Usage
+Click "Start" to start the stopwatch.
+Click "Stop" to stop the stopwatch.
+Click "Reset" to reset the stopwatch.
+Contributing
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
